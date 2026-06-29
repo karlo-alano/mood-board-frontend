@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import "tailwindcss";
+
+
+@theme {
+    --color-background-1: #5E244E;
+    --color-secondary: #AA1C41;
+    --color-tertiary: #E68457;
+    --color-highlight: #FFE8B4;
+}
+
+.font-mono {
+    font-family: "JetBrains Mono", monospace;
+}
